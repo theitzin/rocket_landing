@@ -3,7 +3,6 @@ import time
 import numpy as np
 from scipy import sparse
 from collections import deque
-import matplotlib.pyplot as plt
 
 class Water:
 	def __init__(self, domain, **args):
